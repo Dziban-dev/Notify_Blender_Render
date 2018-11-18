@@ -1,6 +1,6 @@
 # Notify_Blender_Render
 Currently working on Blender 2.7x only, Blender 2.80 comming soon
-Notify Sends a system notification when render is complete, 
+Notify Sends a system notification when your render is complete, 
 works on linux and theoretically on Windows too, 
 havent tested it there yet.
 
