@@ -17,5 +17,5 @@ How to install:
 8.save user settings.
 
 
-Notify now supports notifications in 7 lenguages: English, Spanish, Catalan, Italian, French, German and Portuguese.
-the addon will auto detect the sytem lenguage.
+Notify now supports notifications in 7 lenguages: English, Spanish, Catalan, Italian, French, German and Portuguese.<br/>
+Notify will auto detect the sytem lenguage.
