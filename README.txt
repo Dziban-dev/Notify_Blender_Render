@@ -18,3 +18,6 @@ How to install:
 
 
 Notify now supports notifications in 7 lenguages: English, Spanish, Catalan, Italian, French, German and Portuguese.
+
+
+
