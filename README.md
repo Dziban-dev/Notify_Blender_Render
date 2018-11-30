@@ -22,4 +22,4 @@ How to install:
 Notify now supports notifications in 7 lenguages: English, Spanish, Catalan, Italian, French, German and Portuguese.<br/>
 Notify will auto detect the sytem lenguage.
 
-<b>Missing/upcomming<b/> features: options for sms and e-mail notifications.
+<b>Missing/upcomming<b/> features: options to send sms and e-mail notifications.
