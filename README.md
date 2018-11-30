@@ -15,7 +15,7 @@ How to install:
 6.  Click on the Add-on tab<br/>
 7.  Hit install from file<br/>
 8.  Locate the send_notify_2-8x.py or send_notify_2-7x.py (depending on your blender version)<br/>
-7.  Check the box next to system: notify on your add-ons tab<br/>
+7.  Check the box next to "system: notify" on your add-ons tab<br/>
 8.  Save user settings.
 
 
