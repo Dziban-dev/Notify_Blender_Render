@@ -4,6 +4,8 @@ Notify Sends a system notification when your render is complete,
 works on linux and theoretically on Windows too, 
 havent tested it there yet.
 
+![](images/img1.png)
+
 How to install:
 
 1.Clone or Download the github<br/>
